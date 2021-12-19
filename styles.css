@@ -3,9 +3,19 @@ background-color: black ;
 }
 
 .navbar { 
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     padding-top: 5px;
     font-family: 'Lexend Mega', sans-serif;
+}
+
+.navbar-toggler{
+padding-top: 2px;
+padding-bottom: 2px;
+padding-left: 2px;
+padding-right: 2px;
+
+
+
 }
 
 .nav-link{
