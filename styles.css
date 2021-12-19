@@ -1,0 +1,93 @@
+body {
+background-color: black ;
+}
+
+.navbar { 
+    padding-bottom: 5px;
+    padding-top: 2px;
+    font-family: 'Lexend Mega', sans-serif;
+
+
+}
+
+.nav-link{
+    font-family: 'Lexend Mega', sans-serif;
+}
+
+.navbar-toggler {
+    background-color: #DAA520;
+}
+
+.about-heading {
+    color:#DAA520;
+    font-family: 'Lexend Mega', sans-serif;
+    text-align: center;
+    font-size: 1.6rem;
+    padding-bottom: 25px;
+    padding-top: 40px;
+    /* border-top: 2px solid #DAA520; */
+
+}
+
+.about-p {
+    color:#DAA520;
+    font-family: 'Lexend Mega', sans-serif;
+    text-align: center;
+    font-size: 0.9rem;
+    position: relative;
+    bottom: 35px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.card-group {
+    position: relative;
+    bottom: 55px;
+    background-color: black;
+    border-style: solid;
+    border-color: black;
+    width: 55%;
+    height: 55%;
+    
+}
+
+.card {
+    background-color: black;
+} 
+
+.contact-heading {
+    position: relative;
+    bottom: 55px;
+    color:#DAA520;
+    font-family: 'Lexend Mega', sans-serif;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-size: 1rem;
+    /* border-top: 2px solid #DAA520; */
+
+}
+
+.contact-p{
+    background-color: black;
+    color:#DAA520;
+    font-family: 'Lexend Mega', sans-serif;
+    font-size: 0.7rem;
+    text-align: center;
+    position: relative;
+    bottom: 65px;
+}
+
+a {
+    color: #DAA520;
+  }
+
+ /* ul li a:hover {
+    background-color: darkred;
+} */
+
+  p a:hover {
+     background-color: #DAA520;
+    color:black;
+  } 
