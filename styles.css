@@ -6,6 +6,8 @@ background-color: black ;
     padding-bottom: 5px;
     padding-top: 5px;
     font-family: 'Lexend Mega', sans-serif;
+    /* padding-left: 5px;
+    padding-right: 5px; */
 }
 
 .navbar-toggler{
@@ -13,9 +15,6 @@ padding-top: 2px;
 padding-bottom: 2px;
 padding-left: 2px;
 padding-right: 2px;
-
-
-
 }
 
 .nav-link{
@@ -26,11 +25,15 @@ padding-right: 2px;
     background-color: #DAA520;
 }
 
+.navbar-brand{
+    font-size: 1.6rem;
+}
+
 .about-heading {
     color:#DAA520;
     font-family: 'Lexend Mega', sans-serif;
     text-align: center;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     padding-bottom: 25px;
     padding-top: 50px;
     /* border-top: 2px solid #DAA520; */
@@ -99,3 +102,21 @@ a {
      background-color: #DAA520;
     color:black;
   } 
+
+  .jumbotron {
+      position: relative;
+      top: 350px;
+      z-index: 1;
+      color: black;
+      text-align: center;
+      background-color: #DAA520;
+      font-family: 'Lexend Mega', sans-serif;
+      padding-top: 20px;
+      padding-bottom: 20px;
+
+    }
+
+  .slide{
+      position: relative;
+      bottom: 65px;
+  }
