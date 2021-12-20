@@ -36,6 +36,8 @@ padding-right: 2px;
     font-size: 1.5rem;
     padding-bottom: 25px;
     padding-top: 50px;
+    position: relative;
+    bottom: 13px;
     /* border-top: 2px solid #DAA520; */
 
 }
@@ -105,7 +107,7 @@ a {
 
   .jumbotron {
       position: relative;
-      top: 335px;
+      top: 345px;
       z-index: 1;
       color: black;
       text-align: center;
