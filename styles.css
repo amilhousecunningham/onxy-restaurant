@@ -37,7 +37,7 @@ padding-right: 2px;
     padding-bottom: 25px;
     padding-top: 50px;
     position: relative;
-    bottom: 13px;
+    bottom: 17px;
     /* border-top: 2px solid #DAA520; */
 
 }
@@ -48,7 +48,7 @@ padding-right: 2px;
     text-align: center;
     font-size: 0.9rem;
     position: relative;
-    bottom: 35px;
+    bottom: 50px;
     padding-bottom: 40px;
     padding-left: 20px;
     padding-right: 20px;
@@ -105,20 +105,4 @@ a {
     color:black;
   } 
 
-  .jumbotron {
-      position: relative;
-      top: 345px;
-      z-index: 1;
-      color: black;
-      text-align: center;
-      background-color: #DAA520;
-      font-family: 'Lexend Mega', sans-serif;
-      padding-top: 0px;
-      padding-bottom: 0px;
 
-    }
-
-  .slide{
-      position: relative;
-      bottom: 55px;
-  }
