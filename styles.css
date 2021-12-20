@@ -1,5 +1,5 @@
 body {
-background-color: black ;
+background-color: pink ;
 }
 
 .navbar { 
@@ -111,12 +111,12 @@ a {
       text-align: center;
       background-color: #DAA520;
       font-family: 'Lexend Mega', sans-serif;
-      padding-top: 15px;
-      padding-bottom: 15px;
+      padding-top: 10px;
+      padding-bottom: 10px;
 
     }
 
   .slide{
       position: relative;
-      bottom: 65px;
+      bottom: 55px;
   }
