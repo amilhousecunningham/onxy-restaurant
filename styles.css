@@ -1,5 +1,5 @@
 body {
-background-color: pink ;
+background-color: black ;
 }
 
 .navbar { 
@@ -105,14 +105,14 @@ a {
 
   .jumbotron {
       position: relative;
-      top: 350px;
+      top: 335px;
       z-index: 1;
       color: black;
       text-align: center;
       background-color: #DAA520;
       font-family: 'Lexend Mega', sans-serif;
-      padding-top: 10px;
-      padding-bottom: 10px;
+      padding-top: 0px;
+      padding-bottom: 0px;
 
     }
 
