@@ -1,2 +1,2 @@
 # onxy-restaurant
-I created a restaurant to showcase company, food options, and reservation options.
+I created a this restuarant website using HTML, CSS, and Bootstrap.
